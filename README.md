@@ -1,6 +1,6 @@
-# DePasquale *et al* eLife 2022
+# DePasquale *et al* eLife 2023
 
-Data and analysis for DePasquale *et. al* eLife 2022 submission. Several Julia libraries are necessary to run the analyses in each notebook. The necessary libraries are documented in each notebook. 
+Data and analysis for DePasquale *et. al* eLife 2023 submission. Several Julia libraries are necessary to run the analyses in each notebook. The necessary libraries are documented in each notebook. 
 
 A Julia library can be added by entering the Julia package manager by typing `]`.
 
