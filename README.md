@@ -1,15 +1,11 @@
 # DePasquale *et al* eLife 2023
 
-Data and analysis for DePasquale *et. al* eLife 2023 submission. Several Julia libraries are necessary to run the analyses in each notebook. The necessary libraries are documented in each notebook. 
+Data and analysis for DePasquale *et. al* eLife 2023 submission.
 
-A Julia library can be added by entering the Julia package manager by typing `]`.
+Several Julia libraries are necessary to run the analyses in each notebook. To instantiate a julia project enviorment for these notebooks and scripts, execute the following
 
-```julia
-(v1.5) pkg > add [package-name]
-```
+```julia --project=. -e 'using Pkg; Pkg.instantiate()'```
 
-[PulseInputDDM](https://github.com/Brody-Lab/PulseInputDDM) is a custom codebase for fitting latent variable models and is required for all analyses. PulseInputDDM can be added the same way:
+This should download and add all the dependent libraries listed in `Project.toml`.
 
-```julia
-(v1.5) pkg > add https://github.com/Brody-Lab/PulseInputDDM/
-```
+[PulseInputDDM](https://github.com/Brody-Lab/PulseInputDDM) is a custom codebase for fitting latent variable models and is required for all analyses.
