@@ -818,9 +818,7 @@ version = "1.2.0"
 
 [[deps.PulseInputDDM]]
 deps = ["BasisFunctionExpansions", "DSP", "Discretizers", "Distributed", "Distributions", "Flatten", "ForwardDiff", "HypothesisTests", "ImageFiltering", "LineSearches", "LinearAlgebra", "MAT", "Missings", "Optim", "Parameters", "Polynomials", "PositiveFactorizations", "Random", "SpecialFunctions", "StatsBase", "StatsFuns", "TaylorSeries"]
-git-tree-sha1 = "88ffc11a33f9a8d532273b3a230669f31de6d0b2"
-repo-rev = "main"
-repo-url = "https://github.com/Brody-Lab/PulseInputDDM.jl"
+path = "/Users/briandepasquale/Documents/GitHub/PulseInputDDM.jl/"
 uuid = "c2542da2-1f7d-11e9-2506-87691095ebb2"
 version = "0.4.3"
 
