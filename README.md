@@ -1,6 +1,6 @@
-# DePasquale *et al* eLife 2023
+# DePasquale *et al* eLife 2024
 
-Data and analysis for DePasquale *et. al* eLife 2023 submission.
+Data and analysis for DePasquale *et. al* eLife 2024 submission.
 
 After you clone the repository to your local machine, further steps are needed to run these notebooks. Several Julia libraries are necessary to run the analyses in each notebook. To instantiate a julia project enviorment for these notebooks and scripts, execute the following
 
