@@ -1,3 +1,11 @@
 using NBInclude
 @nbinclude("Fig2.ipynb")
 @nbinclude("Fig3A.ipynb")
+@nbinclude("Fig3B.ipynb")
+@nbinclude("Fig4B.ipynb")
+@nbinclude("Fig4C-D.ipynb")
+@nbinclude("Fig5.ipynb")
+@nbinclude("Fig6A.ipynb")
+@nbinclude("Fig6B.ipynb")
+@nbinclude("Fig6C-F.ipynb")
+@nbinclude("Fig4Supp1D.ipynb")
