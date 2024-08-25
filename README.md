@@ -10,4 +10,4 @@ This should download and add all the dependent libraries listed in `Project.toml
 
 After the project has been instantiated, be sure to activate it before running any notebooks. Sometimes julia knows the current directoy is a enviorment and will activate it automatically. Otherwise, navigate to the parent directory and run `using Pkg; Pkg.activate(".")`.
 
-Note: [PulseInputDDM](https://github.com/Brody-Lab/PulseInputDDM.jl) is a custom codebase for fitting latent variable models and is required for all analyses.
+Note: [PulseInputDDM.jl](https://github.com/Brody-Lab/PulseInputDDM.jl) is a custom codebase for fitting latent variable models and is required for all analyses.
